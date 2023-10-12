@@ -1,4 +1,4 @@
--- Creates a stored procedure AddBonus
+-- Creates a stored procedure AddBonus
 -- that adds a new correction for a student.
 
 DELIMITER $$
